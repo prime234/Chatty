@@ -1,5 +1,5 @@
 # Chatty 🤖
-OpenAI ChatCompletion+llama_index+Gradio实现一个AI助手Chatty，用户可上传文件、视频、输入文本，实现对话、问题解答和文件摘要。                
+OpenAI ChatCompletion+llama_index+Gradio实现一个AI助手Chatty，用户可上传文件、输入文本，实现对话、问题解答和文件摘要。                
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## 基于OpenAI的[ChatCompletion](https://platform.openai.com/docs/guides/gpt/chat-completions-api) API实现对话聊天
 ChatCompletion API示例:
