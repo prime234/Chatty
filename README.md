@@ -24,6 +24,8 @@ openai.ChatCompletion.create(
 界面样式如下:
 ![image](https://github.com/prime234/Chatty/assets/55311775/8e28abd0-d4d5-4678-af32-d8138996b4ed)
 
+![image](https://github.com/prime234/Chatty/assets/55311775/b9642a79-1545-4e3e-8693-04c597586a20)
+
 TODO: 待进一步功能开发，补充更详细内容，给出demo。 
 
 
